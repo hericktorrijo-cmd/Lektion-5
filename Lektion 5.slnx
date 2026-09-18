@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="01 Åldersgränsen/01 Åldersgränsen.csproj" />
+  <Project Path="02 Dörrvakten/02 Dörrvakten.csproj" Id="8101122e-1497-4846-a9af-b1e0b75c402b" />
+  <Project Path="03 Temperaturvarnaren/03 Temperaturvarnaren.csproj" Id="306619a2-cdf9-4b68-8641-11f7255ef450" />
+  <Project Path="04 Veckodagskontrollen/04 Veckodagskontrollen.csproj" Id="71822a93-3c96-4f78-ba22-7b5a3692838d" />
+  <Project Path="05 Medlemsstatus/05 Medlemsstatus.csproj" Id="4c58e52f-1c34-40cd-b134-f2c239fefcb6" />
+  <Project Path="06 Inloggningskontroll/06 Inloggningskontroll.csproj" Id="1b681e6d-66be-4c13-a10c-3dda589dd7ce" />
+  <Project Path="07 Rabattväljaren/07 Rabattväljaren.csproj" Id="e2b42982-0b25-4c35-8ac7-0de273292b7b" />
+  <Project Path="08 Åldersgränser på bio/08 Åldersgränser på bio.csproj" Id="fb77688e-5ec2-4917-a0e3-533afa608fb9" />
+</Solution>
