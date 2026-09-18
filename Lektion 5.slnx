@@ -10,4 +10,5 @@
   <Project Path="09 Support-ärenden/09 Support-ärenden.csproj" Id="f935698f-839b-48d1-a0b8-8affca63648f" />
   <Project Path="10 Biluthyrningen/10 Biluthyrningen.csproj" Id="ed22b5a1-a4bc-4eb9-9e3a-c87ddf80af20" />
   <Project Path="11 Textanalysatorn/11 Textanalysatorn.csproj" Id="3cf2c43b-a85c-45e8-9223-efdf198f436b" />
+  <Project Path="12 Trippelvalidering av användardata/12 Trippelvalidering av användardata.csproj" Id="4b963743-2a0a-4f90-a79d-591c2b3d2d6c" />
 </Solution>
