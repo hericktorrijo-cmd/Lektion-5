@@ -7,4 +7,5 @@
   <Project Path="06 Inloggningskontroll/06 Inloggningskontroll.csproj" Id="1b681e6d-66be-4c13-a10c-3dda589dd7ce" />
   <Project Path="07 Rabattväljaren/07 Rabattväljaren.csproj" Id="e2b42982-0b25-4c35-8ac7-0de273292b7b" />
   <Project Path="08 Åldersgränser på bio/08 Åldersgränser på bio.csproj" Id="fb77688e-5ec2-4917-a0e3-533afa608fb9" />
+  <Project Path="09 Support-ärenden/09 Support-ärenden.csproj" Id="f935698f-839b-48d1-a0b8-8affca63648f" />
 </Solution>
